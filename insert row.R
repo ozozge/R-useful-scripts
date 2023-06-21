@@ -1,4 +1,3 @@
-setwd("C:\\Users\\OOZTURK\\OneDrive - Cox Communications\\Chris")
 
 txt_files <- list.files(path = ".", pattern = "*.SCH")
 
